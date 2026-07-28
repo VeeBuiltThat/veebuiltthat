@@ -1,17 +1,18 @@
 <!--
   VEEBUILTTHAT — GitHub Profile README
-  Replace every placeholder written in ALL CAPS.
-  GitHub strips custom CSS and JavaScript, so this layout uses supported
-  HTML tables, images, badges and Markdown.
+  GitHub supports Markdown and a subset of HTML.
+  It does not allow custom CSS or JavaScript in profile README files.
 -->
 
 <div align="center">
 
-<img src="./assets/dragon-logo.png" width="190" alt="Dragon logo">
+<img src="./assets/dragon-logo.png" width="190" alt="VeeBuiltThat dragon logo">
 
 # VEEBUILTTHAT
 
-### `CODE × CREATE`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=E7B95E&center=true&vCenter=true&repeat=true&width=760&lines=DEVELOPER+%2F%2F+ARTIST+%2F%2F+CREATOR;BUILDING+WEIRD+THINGS+FOR+THE+WEB;CODE+%C3%97+CREATE;BRINGING+IDEAS+TO+LIFE" alt="Animated typing introduction">
+
+<br>
 
 **PROGRAMMING · ART · DESIGN**
 
@@ -21,63 +22,135 @@
 
 <br><br>
 
-<a href="https://github.com/veebuiltthat">
-  <img src="https://img.shields.io/badge/GITHUB-1b1118?style=for-the-badge&logo=github&logoColor=f7d6ad" alt="GitHub">
-</a>
 <a href="https://veeservices.crd.co">
-  <img src="https://img.shields.io/badge/PORTFOLIO-6f3049?style=for-the-badge&logo=firefox&logoColor=ffe063" alt="Portfolio">
+  <img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-6f3049?style=for-the-badge&logo=firefox&logoColor=ffe063" alt="Portfolio">
 </a>
 <a href="mailto:veebuiltthat@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-bb7134?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email">
+  <img src="https://img.shields.io/badge/SEND_A_SIGNAL-171117?style=for-the-badge&logo=gmail&logoColor=e7b95e" alt="Email">
 </a>
+<a href="https://instagram.com/veebuiltthat">
+  <img src="https://img.shields.io/badge/ART_ARCHIVE-bb7134?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=VeeBuiltThat&label=PROFILE+VIEWS&color=6f3049&style=flat-square" alt="Profile views">
+<img src="https://img.shields.io/github/followers/VeeBuiltThat?label=FOLLOWERS&style=flat-square&color=bb7134" alt="GitHub followers">
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## ✦ ABOUT ME
+---
 
 ```javascript
-const vee = {
-  role: ["developer", "artist", "creator"],
-  focus: "bringing ideas to life",
-  currentlyLearning: [
-    "JavaScript",
-    "responsive web design",
-    "creative coding"
+const VeeBuiltThat = {
+  class: "creative developer",
+  alignment: "chaotic good",
+
+  disciplines: [
+    "web development",
+    "automation",
+    "digital art",
+    "visual design"
   ],
-  likes: [
-    "dark colour palettes",
-    "character design",
-    "strange little websites",
+
+  aesthetic: [
+    "dark fantasy",
+    "burgundy",
+    "gold",
     "dragons"
-  ]
+  ],
+
+  status: "surviving, creating, compiling",
+
+  objective() {
+    return "turn strange ideas into working software";
+  }
 };
+```
+
+<div align="center">
+
+### `PROGRAMMING  ✦  ART  ✦  DESIGN`
+
+</div>
+
+---
+
+## `01 // CURRENT TRANSMISSION`
+
+```text
+> building      interactive websites
+> learning      JavaScript without losing my sanity
+> designing     VeeBuiltThat · VeeDev · VexWing
+> accepting     commissions and creative collaborations
+> powered by    caffeine, spite and questionable architecture
 ```
 
 I build expressive digital experiences where **code and art meet**.
 
 My work is inspired by dark fantasy, theatrical design, hand-drawn textures and the slightly strange corners of the web.
 
+---
+
+## `02 // SELECTED BUILDS`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### RF-CLOWN v2.0.0
+
+A 2.4 GHz RF channel-hopping research tool built with Arduino and nRF24L01+ hardware.
+
+<br>
+
+**Built with**
+
+`C++` `Arduino` `nRF24L01+` `RF`
+
+<br>
+
+<a href="https://github.com/VeeBuiltThat/IoT_exam">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-6f3049?style=for-the-badge&logo=github&logoColor=ffe063" alt="View RF-Clown source">
+</a>
+
 </td>
-<td width="42%" valign="top">
+<td width="33%" valign="top">
 
-## ✦ CURRENTLY
+### MousseMail
 
-- Building **Interactive websites**
-- Learning **Surviving**
-- Designing **VeeBuiltThat / VeeDev / VexWing**
-- Open to **COMMISSIONS / COLLABORATIONS**
+A lightweight Discord mod-mail and ticketing bot that creates private support channels from direct messages.
 
-## ✦ LINKS
+<br>
 
-- Portfolio: **[Vee Services](https://veeservices.crd.co)**
-- Instagram: **[@VeeBuiltThat](https://instagram.com/veebuiltthat)**
-- Email: **[veebuiltthat@gmail.com](mailto:veebuiltthat@gmail.com)**
+**Built with**
+
+`Python` `Discord.py` `Automation`
+
+<br>
+
+<a href="https://github.com/VeeBuiltThat/CCAC-MousseMail-PYTHON">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-6f3049?style=for-the-badge&logo=github&logoColor=ffe063" alt="View MousseMail source">
+</a>
+
+</td>
+<td width="33%" valign="top">
+
+### Dixie
+
+A modular Discord moderation bot with warnings, logging, blacklists, slowmode and protection systems.
+
+<br>
+
+**Built with**
+
+`Python` `SQLite` `Discord.py`
+
+<br>
+
+<a href="https://github.com/VeeBuiltThat/CCAC-DIXIE-PYTHON-">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-6f3049?style=for-the-badge&logo=github&logoColor=ffe063" alt="View Dixie source">
+</a>
 
 </td>
 </tr>
@@ -85,19 +158,45 @@ My work is inspired by dark fantasy, theatrical design, hand-drawn textures and 
 
 ---
 
+## `03 // LOADOUT`
+
 <div align="center">
 
-## ✦ TOOLS OF THE TRADE
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma,photoshop,illustrator&theme=dark" alt="Technology and design tools">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,react,nodejs,git,github,vscode,figma,photoshop,illustrator&theme=dark" alt="Skills and tools">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-6f3049?style=flat-square&logo=html5&logoColor=ffe063" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3-6f3049?style=flat-square&logo=css3&logoColor=ffe063" alt="CSS">
-<img src="https://img.shields.io/badge/JAVASCRIPT-6f3049?style=flat-square&logo=javascript&logoColor=ffe063" alt="JavaScript">
-<img src="https://img.shields.io/badge/FIGMA-6f3049?style=flat-square&logo=figma&logoColor=ffe063" alt="Figma">
+<img src="https://img.shields.io/badge/FRONT--END_DEVELOPMENT-6f3049?style=flat-square&logoColor=ffe063" alt="Front-end development">
+<img src="https://img.shields.io/badge/DISCORD_AUTOMATION-6f3049?style=flat-square&logo=discord&logoColor=ffe063" alt="Discord automation">
+<img src="https://img.shields.io/badge/CREATIVE_CODING-6f3049?style=flat-square&logoColor=ffe063" alt="Creative coding">
+<img src="https://img.shields.io/badge/UI_DESIGN-6f3049?style=flat-square&logo=figma&logoColor=ffe063" alt="UI design">
 <img src="https://img.shields.io/badge/DIGITAL_ART-6f3049?style=flat-square&logo=krita&logoColor=ffe063" alt="Digital art">
+
+</div>
+
+---
+
+## `04 // SYSTEM TELEMETRY`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=VeeBuiltThat&show_icons=true&hide_border=true&bg_color=100d12&title_color=e7b95e&icon_color=9b405f&text_color=e6d3c3&ring_color=bb7134" alt="GitHub statistics">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeeBuiltThat&layout=compact&hide_border=true&bg_color=100d12&title_color=e7b95e&text_color=e6d3c3" alt="Most-used languages">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeeBuiltThat&bg_color=100d12&color=e6d3c3&line=8f415d&point=e7b95e&area=true&area_color=6f3049&hide_border=true" width="100%" alt="Contribution activity graph">
+
+</div>
+
+---
+
+## `05 // CONTRIBUTION FAMILIAR`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VeeBuiltThat/veebuiltthat/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake">
 
 </div>
 
@@ -107,57 +206,24 @@ My work is inspired by dark fantasy, theatrical design, hand-drawn textures and 
 <tr>
 <td width="50%" valign="top">
 
-## ✦ FEATURED PROJECT 01
-
-### [RF-CLOWN v2.0.0](https://github.com/VeeBuiltThat/IoT_exam)
-
-A 2.4 GHz RF channel-hopping research tool built on Arduino + nRF24L01+
-
-**Built with:** `C++` `C` 
-
-[VIEW REPOSITORY →](https://github.com/VeeBuiltThat/CCAC-MousseMail-PYTHON)
-
-</td>
-<td width="50%" valign="top">
-
-## ✦ FEATURED PROJECT 02
-
-### [MousseMail](https://github.com/VeeBuiltThat/CCAC-MousseMail-PYTHON)
-
-A lightweight Discord mod-mail / ticketing bot that lets users open private ticket channels by messaging the bot. Designed for small to medium servers where staff need a clear, private way to handle user inquiries.
-
-**Built with:** `Python` 
-
-[VIEW REPOSITORY →](https://github.com/VeeBuiltThat/CCAC-MousseMail-PYTHON)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ✦ FEATURED PROJECT 03
-
-### [Dixie](https://github.com/VeeBuiltThat/CCAC-DIXIE-PYTHON-)
-
-Discord moderation bot used by CCAC. This repository contains the bot entrypoint, database helpers, and a set of moderation cogs (extensions) for warnings, blacklist handling, audit logs, anti-forward protection, slowmode, link-snatching, and more.
-
-**Created with:** `Python`
-
-[VIEW PROJECT →](https://github.com/VeeBuiltThat/CCAC-DIXIE-PYTHON-)
-
-</td>
-<td width="50%" valign="top">
-
-## ✦ AVAILABLE FOR
+## `06 // AVAILABLE FOR`
 
 - Front-end collaborations
 - Portfolio and landing pages
+- Discord automation
 - Creative coding experiments
 - Illustration and visual design
 - Strange ideas with good typography
+
+</td>
+<td width="50%" valign="top">
+
+## `07 // SIGNALS`
+
+- **Portfolio:** [Vee Services](https://veeservices.crd.co)
+- **Instagram:** [@VeeBuiltThat](https://instagram.com/veebuiltthat)
+- **GitHub:** [@VeeBuiltThat](https://github.com/VeeBuiltThat)
+- **Email:** [veebuiltthat@gmail.com](mailto:veebuiltthat@gmail.com)
 
 </td>
 </tr>
@@ -166,17 +232,6 @@ Discord moderation bot used by CCAC. This repository contains the bot entrypoint
 ---
 
 <div align="center">
-
-## ✦ GITHUB ACTIVITY
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=veebuiltthat&show_icons=true&hide_border=true&bg_color=100d12&title_color=ffe063&icon_color=bb7134&text_color=e7c9b6" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veebuiltthat&layout=compact&hide_border=true&bg_color=100d12&title_color=ffe063&text_color=e7c9b6" alt="Most-used languages">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veebuiltthat&bg_color=100d12&color=e7c9b6&line=8f415d&point=ffe063&area=true&hide_border=true" width="100%" alt="Contribution graph">
-
-<br>
 
 <img src="./assets/veebuiltthat-banner.png" width="100%" alt="VeeBuiltThat illustrated banner">
 
@@ -184,6 +239,6 @@ Discord moderation bot used by CCAC. This repository contains the bot entrypoint
 
 ### `BRINGING YOUR IDEAS TO LIFE`
 
-<sub>Designed and built with code, caffeine and questionable amounts of purple.</sub>
+<sub>Built with code, caffeine and a deeply suspicious number of dragons.</sub>
 
 </div>
