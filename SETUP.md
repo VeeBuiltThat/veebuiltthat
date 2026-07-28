@@ -22,13 +22,13 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/veebuiltthat">
   <img src="https://img.shields.io/badge/GITHUB-1b1118?style=for-the-badge&logo=github&logoColor=f7d6ad" alt="GitHub">
 </a>
-<a href="https://YOUR_WEBSITE.com">
+<a href="https://veeservices.crd.co">
   <img src="https://img.shields.io/badge/PORTFOLIO-6f3049?style=for-the-badge&logo=firefox&logoColor=ffe063" alt="Portfolio">
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:veebuiltthat@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT-bb7134?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email">
 </a>
 
@@ -69,16 +69,16 @@ My work is inspired by dark fantasy, theatrical design, hand-drawn textures and 
 
 ## ✦ CURRENTLY
 
-- Building **YOUR CURRENT PROJECT**
-- Learning **YOUR CURRENT SKILL**
-- Designing **YOUR ART OR BRAND PROJECT**
+- Building **Interactive websites**
+- Learning **Surviving**
+- Designing **VeeBuiltThat / VeeDev / VexWing**
 - Open to **COMMISSIONS / COLLABORATIONS**
 
 ## ✦ LINKS
 
-- Portfolio: **[YOUR WEBSITE](https://YOUR_WEBSITE.com)**
-- Instagram: **[@YOUR_HANDLE](https://instagram.com/YOUR_HANDLE)**
-- Email: **[YOUR_EMAIL](mailto:YOUR_EMAIL)**
+- Portfolio: **[Vee Services](https://veeservices.crd.co)**
+- Instagram: **[@VeeBuiltThat](https://instagram.com/veebuiltthat)**
+- Email: **[veebuiltthat@gmail.com](mailto:veebuiltthat@gmail.com)**
 
 </td>
 </tr>
@@ -110,26 +110,26 @@ My work is inspired by dark fantasy, theatrical design, hand-drawn textures and 
 
 ## ✦ FEATURED PROJECT 01
 
-### [PROJECT NAME](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY)
+### [RF-CLOWN v2.0.0](https://github.com/VeeBuiltThat/IoT_exam)
 
-A short description of what the project does, who it is for and what makes it interesting.
+A 2.4 GHz RF channel-hopping research tool built on Arduino + nRF24L01+
 
-**Built with:** `HTML` `CSS` `JavaScript`
+**Built with:** `C++` `C` 
 
-[VIEW REPOSITORY →](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY)
+[VIEW REPOSITORY →](https://github.com/VeeBuiltThat/CCAC-MousseMail-PYTHON)
 
 </td>
 <td width="50%" valign="top">
 
 ## ✦ FEATURED PROJECT 02
 
-### [PROJECT NAME](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY)
+### [MousseMail](https://github.com/VeeBuiltThat/CCAC-MousseMail-PYTHON)
 
-A short description of the visual direction, technical challenge or problem this project solves.
+A lightweight Discord mod-mail / ticketing bot that lets users open private ticket channels by messaging the bot. Designed for small to medium servers where staff need a clear, private way to handle user inquiries.
 
-**Built with:** `React` `Node.js` `Figma`
+**Built with:** `Python` 
 
-[VIEW REPOSITORY →](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY)
+[VIEW REPOSITORY →](https://github.com/VeeBuiltThat/CCAC-MousseMail-PYTHON)
 
 </td>
 </tr>
@@ -141,13 +141,13 @@ A short description of the visual direction, technical challenge or problem this
 
 ## ✦ FEATURED PROJECT 03
 
-### [PROJECT NAME](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY)
+### [Dixie](https://github.com/VeeBuiltThat/CCAC-DIXIE-PYTHON-)
 
-Use this space for an art project, small web experiment, game, commission or portfolio piece.
+Discord moderation bot used by CCAC. This repository contains the bot entrypoint, database helpers, and a set of moderation cogs (extensions) for warnings, blacklist handling, audit logs, anti-forward protection, slowmode, link-snatching, and more.
 
-**Created with:** `YOUR TOOLS`
+**Created with:** `Python`
 
-[VIEW PROJECT →](https://YOUR_PROJECT_LINK.com)
+[VIEW PROJECT →](https://github.com/VeeBuiltThat/CCAC-DIXIE-PYTHON-)
 
 </td>
 <td width="50%" valign="top">
@@ -170,12 +170,12 @@ Use this space for an art project, small web experiment, game, commission or por
 
 ## ✦ GITHUB ACTIVITY
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=100d12&title_color=ffe063&icon_color=bb7134&text_color=e7c9b6" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=100d12&title_color=ffe063&text_color=e7c9b6" alt="Most-used languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=veebuiltthat&show_icons=true&hide_border=true&bg_color=100d12&title_color=ffe063&icon_color=bb7134&text_color=e7c9b6" alt="GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veebuiltthat&layout=compact&hide_border=true&bg_color=100d12&title_color=ffe063&text_color=e7c9b6" alt="Most-used languages">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=100d12&color=e7c9b6&line=8f415d&point=ffe063&area=true&hide_border=true" width="100%" alt="Contribution graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veebuiltthat&bg_color=100d12&color=e7c9b6&line=8f415d&point=ffe063&area=true&hide_border=true" width="100%" alt="Contribution graph">
 
 <br>
 
@@ -188,6 +188,7 @@ Use this space for an art project, small web experiment, game, commission or por
 <sub>Designed and built with code, caffeine and questionable amounts of purple.</sub>
 
 </div>
+
 =======
 # Setup
 
