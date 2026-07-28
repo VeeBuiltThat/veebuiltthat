@@ -4,10 +4,10 @@
 
 <br>
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/veebuiltthat">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=ff00cc&style=flat-square" alt="Profile views">
 </a>
-<a href="https://github.com/USERNAME?tab=followers">
+<a href="https://github.com/veebuiltthat?tab=followers">
   <img src="https://img.shields.io/github/followers/USERNAME?label=FOLLOWERS&style=flat-square&color=00e5ff" alt="GitHub followers">
 </a>
 
