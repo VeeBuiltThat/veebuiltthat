@@ -18,7 +18,6 @@
 
 <br>
 
-<img src="./assets/code-create-banner.webp" width="100%" alt="Code and create banner">
 
 <br><br>
 
@@ -180,13 +179,15 @@ A modular Discord moderation bot with warnings, logging, blacklists, slowmode an
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=VeeBuiltThat&show_icons=true&hide_border=true&bg_color=100d12&title_color=e7b95e&icon_color=9b405f&text_color=e6d3c3&ring_color=bb7134" alt="GitHub statistics">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=veebuiltthat&show_icons=true&theme=transparent&hide_border=true&title_color=E7B95E&text_color=DCC6B3&icon_color=BB7134&ring_color=E7B95E" alt="GitHub statistics">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeeBuiltThat&layout=compact&hide_border=true&bg_color=100d12&title_color=e7b95e&text_color=e6d3c3" alt="Most-used languages">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeeBuiltThat&bg_color=100d12&color=e6d3c3&line=8f415d&point=e7b95e&area=true&area_color=6f3049&hide_border=true" width="100%" alt="Contribution activity graph">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=veebuiltthat&layout=compact&theme=transparent&hide_border=true&title_color=E7B95E&text_color=DCC6B3" width="100%" alt="Contribution activity graph">
 
 </div>
 
@@ -232,8 +233,6 @@ A modular Discord moderation bot with warnings, logging, blacklists, slowmode an
 ---
 
 <div align="center">
-
-<img src="./assets/veebuiltthat-banner.png" width="100%" alt="VeeBuiltThat illustrated banner">
 
 <br>
 
